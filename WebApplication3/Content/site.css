@@ -1,0 +1,72 @@
+﻿﻿body {
+    background-color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+}
+
+.navbar-inverse{
+    background-color:black;
+    
+}
+.site-header{
+    height:500px;
+}
+
+.site-header-img {
+    height: 100%;
+    background-image: url('img/Header.jpg');
+    background-size:cover;
+}
+
+.content {
+    margin-top:25px;
+}
+
+.brand-img {
+    height:30px;
+    position:relative;
+    bottom:5px
+}
+
+.navbar-brand div{
+   position:relative;
+   bottom:5px;
+}
+
+.clearfix:after {
+   content: " ";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+.aside-img-right{
+    float:right;
+    margin-left:20px;
+    margin-bottom:15px;
+    text-align:center;
+}
+
+.aside-img-left{
+    float:left;
+    margin-right:20px;
+    margin-bottom:15px;
+    text-align:center;
+}
+
+.aside-img-left img,
+.aside-img-right img{
+    width:400px;
+}
+
+.footer{
+    text-align:center;
+}
+
+.empty{
+    height: 150px;
+}
+.arcade {
+    height: 400px;
+}

@@ -1,0 +1,12 @@
+c:\users\vladislav_kudashev\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+c:\users\vladislav_kudashev\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+c:\users\vladislav_kudashev\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+c:\users\vladislav_kudashev\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\obj\Debug\SaratovWebSite.csprojResolveAssemblyReference.cache
+c:\users\vladislav_kudashev\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+c:\users\vladislav_kudashev\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Vadim_Stavkin\Desktop\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Vadim_Stavkin\Desktop\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\Vadim_Stavkin\Desktop\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Vadim_Stavkin\Desktop\WebApplication3\WebApplication3\obj\Debug\SaratovWebSite.csprojResolveAssemblyReference.cache
+C:\Users\Vadim_Stavkin\Desktop\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Vadim_Stavkin\Desktop\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
